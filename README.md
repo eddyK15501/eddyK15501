@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @eddyK15501
-- 👀 I’m interested in ...just about anything you can think of.
-- 🌱 I’m currently learning about the ever changing world of blockchains, as well as how to develop smart contracts.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in...so many different things. You name it! I'm interested.
+- 🌱 I’m currently learning how to develop smart contracts on the Ethereum blockchain.
+- 📫 How to reach me ...edk1231@gmail.com
+
+Cheers!
 
 <!---
 eddyK15501/eddyK15501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

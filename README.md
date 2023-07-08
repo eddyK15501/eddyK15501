@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edward!
 - 👀 I’m interested in...so many different things. You name it! I also love to smile, enjoy life, treat people with kindness, and learn something new everyday.
-- 🌱 I’m currently learning fullstack web development, as well as learning how to develop smart contracts on the Ethereum blockchain on the side.
+- 🌱 I’m currently learning both frontend and backend web development, as well as learning how to develop smart contracts on the Ethereum blockchain on the side.
 - 📫 How to reach me: edk1231@gmail.com or 919-279-5471
 
 Cheers!

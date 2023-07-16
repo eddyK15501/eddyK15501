@@ -3,7 +3,7 @@
 - 📚 I’m currently learning both frontend & backend web development, as well as learning how to develop smart contracts on the Ethereum blockchain.
 - 🤙 How to reach me: itgma1231@gmail.com or 919-279-5471
 - 🎧 Listening to: Unlucky - IU 💐🫰 
-- 💎🤲
+- 💎 🤲
   
 🥂 Cheers!
 

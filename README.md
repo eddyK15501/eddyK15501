@@ -4,7 +4,8 @@
 - 🤙 How to reach me: itgma1231@gmail.com or 919-279-5471
 - 🎧 Listening to: Unlucky - IU 🫰
   
-💎🤲\
+💎\
+🤲\
 🥂 Cheers!
 
 <!---

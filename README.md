@@ -2,7 +2,7 @@
 - 💡 I’m interested in...so many different things. You name it! I also love to smile, enjoy life, treat people with kindness, and learn something new everyday.
 - 📚 I’m currently learning both frontend & backend web development, as well as learning how to develop smart contracts on the Ethereum blockchain.
 - 🤙 How to reach me: itgma1231@gmail.com or 919-279-5471
-- 🎧 Listening to: High You Are - What So Not (Branchez Remix)
+- 🎧 Listening to: What So Not - High You Are (Branchez Remix)
   
 🥂 Cheers!
 

@@ -4,8 +4,6 @@
 - 🤙 How to reach me: itgma1231@gmail.com or 919-279-5471
 - 🎧 Listening to: No Other Heart - Mac DeMarco
 
-Sleazy, impure, & cowardice. Not my type...and we keep things moving.
-
 🥂 Cheers!
 
 <!---

@@ -4,7 +4,7 @@
 - 🤙 How to reach me: itgma1231@gmail.com or 919-279-5471
 - 🎧 Listening to: Sleepless rainy night - IU
 
-🥂 Cheers!
+🥂 Cheers
 
 <!---
 eddyK15501/eddyK15501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
